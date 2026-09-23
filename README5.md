@@ -43,7 +43,7 @@ Simulation Circuit
  Sensor Simulation
 
 ![][image2]
-![simulation](simulation5.pdf)
+![simulation](simulation6.pdf)
  **Hardware Implementation**
 
 **![][image3]**
